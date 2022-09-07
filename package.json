@@ -1,0 +1,17 @@
+{
+  "name": "grocery-store-backend",
+  "version": "1.0.0",
+  "description": "a simple backend for a Grocery store. This will be a complete node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.19"
+  }
+}
